@@ -1,5 +1,7 @@
-### Hi there 👋
+##  Hi there! I'm Tareq Arnaout 
+# They call me tareqcodes
 
+I'm a passionate software engineer student at Princess Sumaya University of Technology (PSUT), eager to learn, grow, and contribute to the tech community. I'm particularly interested in app dev
 <!--
 **tareqarnaout/tareqarnaout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
