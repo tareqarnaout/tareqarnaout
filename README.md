@@ -1,5 +1,5 @@
 ##  Hi there! I'm Tareq Arnaout 
-# They call me @tareqcodes on all social media
+#  @tareqcodes on all social media
 
 I'm a passionate software engineer student at Princess Sumaya University of Technology (PSUT), eager to learn, grow, and contribute to the tech community. I'm particularly interested in app dev
 <!--
